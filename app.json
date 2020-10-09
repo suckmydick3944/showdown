@@ -28,7 +28,7 @@
     },
     "TEAM_NAME": {
       "description": "The name of team",
-      "value": "TEAM_NAME=gen8/metronome",
+      "value": "TEAM_NAME=gen8/ou/metronome",
       "required": true
     },
     "RUN_COUNT": {
