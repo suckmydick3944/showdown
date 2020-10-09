@@ -23,7 +23,12 @@
     },
     "POKEMON_MODE": {
       "description": "The type of game this bot will play games in",
-      "value": "gen7randombattle",
+      "value": "gen8metronomebattle",
+      "required": true
+    },
+    "TEAM_NAME": {
+      "description": "The name of team",
+      "value": "TEAM_NAME=gen8/metronome",
       "required": true
     },
     "RUN_COUNT": {
